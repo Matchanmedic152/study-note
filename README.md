@@ -46,6 +46,9 @@
 Made with ☕ and 🍵 by Matcha
 
 
+# 💊 Pharmacology
+
+## 薬理学
 
 薬理学
 薬物：薬効をもつ化合物
